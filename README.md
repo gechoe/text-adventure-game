@@ -1,6 +1,6 @@
 # Text Adventure Games!
 
-This Python notebook builds a simple text advenutre game inspired by the
+This Python notebook builds a simple text adventure game inspired by the
 [Adventuron Classroom](https://adventuron.io/classroom/) design by Chris
 Ainsley of Adventuron Software Limited.
 
@@ -11,8 +11,9 @@ The main components are:
 3. __The data__, which you input to create your own unique game.
 
 In the **homeworks** directory, there is...
-- An implementation of the most classic text adventure game--Action Castle! (game, playthrough, map, etc.)
-- AND an implementation of an original text adventure game--Cat Revenge! (game, playthrough, map, etc.)
+- An implementation of an original text adventure game--Cat Revenge! (game, playthrough, map, etc.)
+- And an implementation of the most classic text adventure game--Action Castle! (game, playthrough, map, etc.)
+
 
 You can download a PDF of the Action Castle game from [Parsely: Preview n' Play Edition (this
 contains a free copy the Action Castle game).](http://www.memento-mori.com/pdf/parsely-preview-n-play-edition) for more information.
