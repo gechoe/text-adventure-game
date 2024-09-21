@@ -1,0 +1,141 @@
+You are standing in the bedroom. This is where the human who feeds you sleeps.
+Exits:
+North to Bathroom
+West to Living Room
+
+
+
+
+You are standing in the living room. There is a table.
+Exits:
+East to Bedroom
+North to Kitchen
+Up to Living Room Table
+
+
+Characters:
+ *
+ * A regular-schmegular, normal human.
+
+You are standing in the kitchen. This is where delicious smells sometimes come
+from.
+Exits:
+South to Living Room
+
+You see:
+ * a plastic cat-food bowl
+        meow at bowl
+
+
+
+After meowing at the bowl, your human comes to the kitchen. They notice your
+bowl is empty and finds your canned food. They then fill your bowl up. From the
+kitchen they can see what's going on in the living room and become more alert.
+You are standing in the living room. There is a table.
+Exits:
+East to Bedroom
+North to Kitchen
+Up to Living Room Table
+
+
+Characters:
+ *
+
+You are standing on top of the table. There is stuff on the table.
+Exits:
+Down to Living Room
+
+You see:
+ * a plastic cup with no water in it
+        push cup
+ * a mug with cartoon smile face
+        push mug
+
+
+
+"HEY! No, no, no!" Your human looks at you from the kitchen as you nudge the cup
+around. They keep an eye on you, preventing you from doing anything else.
+"Hey, hey, hey!" your human frowns at you and reaches their hand out to hold the
+mug in place. "Don't touch this, ok?"
+
+"Hey, no!" your human grabs the cup before it  can fall. "This has juice in it,
+ok?" They move it back in place.
+"Hey, hey, hey!" your human frowns at you and reaches their hand out to hold the
+mug in place. "Don't touch this, ok?"
+You are standing in the living room. There is a table.
+Exits:
+East to Bedroom
+North to Kitchen
+Up to Living Room Table
+
+
+Characters:
+ *
+ * A regular-schmegular, normal human.
+
+You are standing in the bedroom. This is where the human who feeds you sleeps.
+Exits:
+North to Bathroom
+West to Living Room
+
+
+
+
+You are standing in the bathroom. You don't like it when your human puts water
+on you.
+Exits:
+South to Bedroom
+
+You see:
+ * a toilet paper roll
+        play with paper
+
+
+
+You, the cat, swat at the toilet paper end hanging from the holder. You play
+with the toilet paper roll and completely unravel it. The holder comes toppling
+down.
+Your human hears you, comes to the bathroom, and stands at the doorframe in
+shock.
+Letting out a sigh, your human gets busy, cleaning up the pile.
+You are standing in the bedroom. This is where the human who feeds you sleeps.
+Exits:
+North to Bathroom
+West to Living Room
+
+
+
+
+You are standing in the living room. There is a table.
+Exits:
+East to Bedroom
+North to Kitchen
+Up to Living Room Table
+
+
+Characters:
+ *
+
+You are standing on top of the table. There is stuff on the table.
+Exits:
+Down to Living Room
+
+You see:
+ * a plastic cup with no water in it
+        push cup
+ * a mug with cartoon smile face
+        push mug
+
+
+
+You nudge the plastic cup with the top of your head.  It reaches the edge of the
+table and you soon see it fall to the ground. Juice spills everywhere, but the
+plastic cup is fine. You let out a disappointed meow.
+
+You, the cat, slowly push your paw against the mug's surface. It inches towards
+the edge of the table. You then see it tumble onto the floor and BANG. It
+shatters and tea spashes everywhere.
+You pushed your human's mug! As it tumbles towards the ground, you watch with a
+glint in your eye. The satisfying crash echoes through the house, a symphony of
+sweet revenge for last night's dinner fiasco. You've proven that even the
+smallest creature can make a big statement. Well done, stealthy feline! ~(OuO)~
