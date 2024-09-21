@@ -12,17 +12,21 @@ whole lot of cat-like. Get ready to make your move and let that mug meet its fat
 * We wanted to make a game in the perspective of a cat and simple revenge.
 To put it simply, we love cats even though they push things off the table sometimes.
 
-***
-## Cat Revenge related files:
+<br> Cat Revenge related files:
 - my_game_done_testing.ipynb ->  Is the final version of the Cat Revenge game.
 - my_game.ipynb -> Is the initial version of the Cat Revenge game, contains test code.
 - playthrough.txt -> Contains a playthrough of the Cat Revenge game and all its functions.
 - cat_game.jpg -> Has a drawn out map of the game.
 
+<!-- ![cat_game.jpg](cat_game.jpg) -->
+<br> Cat Revenge Game Map:
+
+<img src="cat_game.jpg" alt="Cat game" width="700"/>
+
 ***
 # Action Castle Game
 
-## Action Castle related files:
+Action Castle related files:
 - action_castle_final.ipynb ->  Is the final version of the Cat Revenge game.
 - my_game.ipynb -> Is the initial version of the Cat Revenge game, contains test code.
 - playthrough.txt -> Contains a playthrough of the Cat Revenge game and all its functions.
