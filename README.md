@@ -1,5 +1,3 @@
-# Text_Adeventure_Game
-Text Adventure Games for Action Castle and Cat Revenge.
 # Text Adventure Games!
 
 This Python notebook builds a simple text advenutre game inspired by the
